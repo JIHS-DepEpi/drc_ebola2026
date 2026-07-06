@@ -1,0 +1,85 @@
+{
+  "from_report": "N50",
+  "to_report": "N51",
+  "from_reporting_date": "2026-07-03",
+  "to_reporting_date": "2026-07-04",
+  "confirmed_cases": {
+    "previous": 2026,
+    "latest": 2026,
+    "change": 0
+  },
+  "confirmed_deaths": {
+    "previous": 628,
+    "latest": 628,
+    "change": 0
+  },
+  "health_zones": {
+    "previous_count": 35,
+    "latest_count": 35,
+    "new_health_zones": [],
+    "largest_increases": [
+      {
+        "health_zone": "Rwampara",
+        "change": 11,
+        "latest": 344
+      },
+      {
+        "health_zone": "Bunia",
+        "change": 7,
+        "latest": 438
+      },
+      {
+        "health_zone": "Nizi",
+        "change": 7,
+        "latest": 72
+      },
+      {
+        "health_zone": "Komanda",
+        "change": 3,
+        "latest": 22
+      },
+      {
+        "health_zone": "Mongbwalu",
+        "change": 2,
+        "latest": 278
+      },
+      {
+        "health_zone": "Musienene",
+        "change": 2,
+        "latest": 6
+      },
+      {
+        "health_zone": "Katwa",
+        "change": 1,
+        "latest": 52
+      }
+    ]
+  },
+  "response": {
+    "contact_followup_rate_previous": null,
+    "contact_followup_rate_latest": null,
+    "contacts_under_followup_latest": 0,
+    "contacts_seen_latest": 0,
+    "alerts_reported_latest": 0,
+    "alerts_investigated_latest": 0,
+    "alert_investigation_rate_latest": null,
+    "samples_analysed_latest": 0,
+    "positive_samples_latest": 0,
+    "travellers_total_latest": 0,
+    "travellers_screened_latest": 94,
+    "poe_screening_coverage_latest": null
+  },
+  "uganda": {
+    "as_of_date": "2026-07-05",
+    "confirmed_cases": 20,
+    "confirmed_deaths": 2,
+    "imported_cases": 15,
+    "local_cases": 5,
+    "new_cases_last_24h": 0,
+    "no_reported_increase_days": 30,
+    "last_reported_increase_date": "2026-06-05",
+    "trend_basis": "daily_confirmation_chart",
+    "trend_status": "no_recent_increase",
+    "source_url": "https://evd-daily.health.go.ug/"
+  }
+}
