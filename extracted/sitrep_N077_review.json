@@ -1,0 +1,11 @@
+{
+  "reason": "Extracted health-zone counts did not validate after deterministic extraction and optional OpenAI fallback.",
+  "article": "https://insp.cd/sitrep-n077-mve-b_30-07-2026/",
+  "report_no": 77,
+  "reporting_date": "2026-07-30",
+  "total_confirmed": 3,
+  "health_zone_sum": 0,
+  "unassigned_cases": 3,
+  "health_zone_rows_extracted": 0,
+  "openai_api_key_configured": false
+}
