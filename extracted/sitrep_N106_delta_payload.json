@@ -1,0 +1,121 @@
+{
+  "from_report": "N105",
+  "to_report": "N106",
+  "from_reporting_date": "2026-08-27",
+  "to_reporting_date": "2026-08-28",
+  "confirmed_cases": {
+    "previous": 5863,
+    "latest": 5945,
+    "change": 82
+  },
+  "confirmed_deaths": {
+    "previous": 2824,
+    "latest": 2862,
+    "change": 38
+  },
+  "health_zones": {
+    "previous_count": 1,
+    "latest_count": 31,
+    "new_health_zones": [
+      "Bafwasende",
+      "Beni",
+      "Biena",
+      "Boma",
+      "Buta",
+      "Butembo",
+      "Ganga",
+      "Goma",
+      "Gombari",
+      "Isiro",
+      "Kabondo",
+      "Kalunguta",
+      "Katwa",
+      "Kyondo",
+      "Lubero",
+      "Lubunga",
+      "Mabalako",
+      "Mangobo",
+      "Manguredjipa",
+      "Masereka",
+      "Miti-Murhesa",
+      "Musienene",
+      "Mutwanga",
+      "Oicha",
+      "Pawa",
+      "Rungu",
+      "Rwampara",
+      "Tchomia",
+      "Vuhovi",
+      "Wamba"
+    ],
+    "largest_increases": [
+      {
+        "health_zone": "Rwampara",
+        "change": 939,
+        "latest": 939
+      },
+      {
+        "health_zone": "Katwa",
+        "change": 377,
+        "latest": 377
+      },
+      {
+        "health_zone": "Butembo",
+        "change": 160,
+        "latest": 160
+      },
+      {
+        "health_zone": "Beni",
+        "change": 128,
+        "latest": 128
+      },
+      {
+        "health_zone": "Tshopo",
+        "change": 119,
+        "latest": 138
+      },
+      {
+        "health_zone": "Isiro",
+        "change": 79,
+        "latest": 79
+      },
+      {
+        "health_zone": "Wamba",
+        "change": 76,
+        "latest": 76
+      },
+      {
+        "health_zone": "Musienene",
+        "change": 75,
+        "latest": 75
+      }
+    ]
+  },
+  "response": {
+    "contact_followup_rate_previous": null,
+    "contact_followup_rate_latest": null,
+    "contacts_under_followup_latest": 0,
+    "contacts_seen_latest": 0,
+    "alerts_reported_latest": 0,
+    "alerts_investigated_latest": 0,
+    "alert_investigation_rate_latest": null,
+    "samples_analysed_latest": 0,
+    "positive_samples_latest": 0,
+    "travellers_total_latest": 0,
+    "travellers_screened_latest": 97,
+    "poe_screening_coverage_latest": null
+  },
+  "uganda": {
+    "as_of_date": "2026-07-28",
+    "confirmed_cases": 20,
+    "confirmed_deaths": 2,
+    "imported_cases": 15,
+    "local_cases": 5,
+    "new_cases_last_24h": 0,
+    "no_reported_increase_days": 53,
+    "last_reported_increase_date": "2026-06-05",
+    "trend_basis": "daily_confirmation_chart",
+    "trend_status": "no_recent_increase",
+    "source_url": "https://evd-daily.health.go.ug/"
+  }
+}
