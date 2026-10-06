@@ -1,0 +1,90 @@
+{
+  "from_report": "N141",
+  "to_report": "N143",
+  "from_reporting_date": "2026-10-01",
+  "to_reporting_date": "2026-10-04",
+  "confirmed_cases": {
+    "previous": 8442,
+    "latest": 8603,
+    "change": 161
+  },
+  "confirmed_deaths": {
+    "previous": 4080,
+    "latest": 4148,
+    "change": 68
+  },
+  "health_zones": {
+    "previous_count": 38,
+    "latest_count": 38,
+    "new_health_zones": [],
+    "largest_increases": [
+      {
+        "health_zone": "Katwa",
+        "change": 21,
+        "latest": 600
+      },
+      {
+        "health_zone": "Beni",
+        "change": 17,
+        "latest": 393
+      },
+      {
+        "health_zone": "Musienene",
+        "change": 11,
+        "latest": 138
+      },
+      {
+        "health_zone": "Rwampara",
+        "change": 10,
+        "latest": 1114
+      },
+      {
+        "health_zone": "Butembo",
+        "change": 8,
+        "latest": 280
+      },
+      {
+        "health_zone": "Mabalako",
+        "change": 5,
+        "latest": 46
+      },
+      {
+        "health_zone": "Pawa",
+        "change": 3,
+        "latest": 90
+      },
+      {
+        "health_zone": "Vuhovi",
+        "change": 2,
+        "latest": 34
+      }
+    ]
+  },
+  "response": {
+    "contact_followup_rate_previous": null,
+    "contact_followup_rate_latest": null,
+    "contacts_under_followup_latest": 0,
+    "contacts_seen_latest": 0,
+    "alerts_reported_latest": 0,
+    "alerts_investigated_latest": 0,
+    "alert_investigation_rate_latest": null,
+    "samples_analysed_latest": 0,
+    "positive_samples_latest": 0,
+    "travellers_total_latest": 0,
+    "travellers_screened_latest": 95,
+    "poe_screening_coverage_latest": null
+  },
+  "uganda": {
+    "as_of_date": "2026-07-28",
+    "confirmed_cases": 20,
+    "confirmed_deaths": 2,
+    "imported_cases": 15,
+    "local_cases": 5,
+    "new_cases_last_24h": 0,
+    "no_reported_increase_days": 53,
+    "last_reported_increase_date": "2026-06-05",
+    "trend_basis": "daily_confirmation_chart",
+    "trend_status": "no_recent_increase",
+    "source_url": "https://evd-daily.health.go.ug/"
+  }
+}
