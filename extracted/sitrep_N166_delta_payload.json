@@ -1,0 +1,95 @@
+{
+  "from_report": "N165",
+  "to_report": "N166",
+  "from_reporting_date": "2026-10-26",
+  "to_reporting_date": "2026-10-27",
+  "confirmed_cases": {
+    "previous": 10141,
+    "latest": 10193,
+    "change": 52
+  },
+  "confirmed_deaths": {
+    "previous": 4928,
+    "latest": 4960,
+    "change": 32
+  },
+  "health_zones": {
+    "previous_count": 39,
+    "latest_count": 43,
+    "new_health_zones": [
+      "Mambasa",
+      "Mandima",
+      "Mangala",
+      "Mongbwalu"
+    ],
+    "largest_increases": [
+      {
+        "health_zone": "Mongbwalu",
+        "change": 717,
+        "latest": 717
+      },
+      {
+        "health_zone": "Mandima",
+        "change": 456,
+        "latest": 456
+      },
+      {
+        "health_zone": "Mangala",
+        "change": 394,
+        "latest": 394
+      },
+      {
+        "health_zone": "Mambasa",
+        "change": 88,
+        "latest": 88
+      },
+      {
+        "health_zone": "Mabalako",
+        "change": 6,
+        "latest": 106
+      },
+      {
+        "health_zone": "Isiro",
+        "change": 2,
+        "latest": 112
+      },
+      {
+        "health_zone": "Nizi",
+        "change": 2,
+        "latest": 842
+      },
+      {
+        "health_zone": "Nyankunde",
+        "change": 2,
+        "latest": 139
+      }
+    ]
+  },
+  "response": {
+    "contact_followup_rate_previous": null,
+    "contact_followup_rate_latest": null,
+    "contacts_under_followup_latest": 0,
+    "contacts_seen_latest": 0,
+    "alerts_reported_latest": 0,
+    "alerts_investigated_latest": 0,
+    "alert_investigation_rate_latest": null,
+    "samples_analysed_latest": 0,
+    "positive_samples_latest": 0,
+    "travellers_total_latest": 0,
+    "travellers_screened_latest": 97,
+    "poe_screening_coverage_latest": null
+  },
+  "uganda": {
+    "as_of_date": "2026-07-28",
+    "confirmed_cases": 20,
+    "confirmed_deaths": 2,
+    "imported_cases": 15,
+    "local_cases": 5,
+    "new_cases_last_24h": 0,
+    "no_reported_increase_days": 53,
+    "last_reported_increase_date": "2026-06-05",
+    "trend_basis": "daily_confirmation_chart",
+    "trend_status": "no_recent_increase",
+    "source_url": "https://evd-daily.health.go.ug/"
+  }
+}
